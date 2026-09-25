@@ -1,4 +1,4 @@
 # web_dev_journey
-Author    -    Muhammad Usman |
+Author    -    Muhammad Usman
+<br>
 Role    -    SE Student
-
