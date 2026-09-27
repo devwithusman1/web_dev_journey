@@ -5,7 +5,7 @@ This repository contains a minimal, responsive portfolio landing page.
 
 How to use:
 
-- Open `index.html` in a browser to view the page.
+- Open `index.html` in a browser to view the page/OR simply click the following link to view it live: [Portfolio](https://www.google.com)
 - Edit the content in `index.html`, customize styles in `styles.css`, and change the contact email in `script.js`.
 
 Files added:
