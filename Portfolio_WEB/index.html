@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Portfolio — Muhammad Usman</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="logo" href="#">Muhammad Usman</a>
+      <button id="nav-toggle" class="nav-toggle" aria-label="Toggle navigation">☰</button>
+      <nav class="site-nav" id="site-nav">
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container">
+        <h1>Hi, I'm Muhammad Usman.</h1>
+        <p class="lead">I build clean, accessible web experiences. I'm a front-end developer focused on modern HTML, CSS and JavaScript.</p>
+        <p><a class="btn_work" href="#projects">See my work</a></p>
+      </div>
+    </section>
+
+    <section id="about" class="container about">
+      <h2>About</h2>
+      <p>I am a front-end developer, passionate about building clean and accessible web experiences, and I'm always looking for new challenges and opportunities to grow.</p>
+    </section>
+
+    <section id="projects" class="container projects">
+      <h2>Projects</h2>
+      <div class="grid">
+        <article class="card">
+          <h3>Project One</h3>
+          <p>So my first even project was to build a responsive portfolio for a Plastic Surgeon Doctor. I used modern HTML, CSS, and a little bit of JavaScript in that, and the project was entirely frontend focused.</p><br>
+          <p>View the project here:</p>
+          <p><a class="link" href="http://www.google.com" target="_blank">View</a></p>
+        </article>
+        <article class="card">
+          <h3>Project Two</h3>
+          <p>Short description of the project. Tech stack and role.</p>
+          <p>View the project here:</p>
+          <p><a class="link" href="#">View</a></p>
+        </article>
+        <article class="card">
+          <h3>Project Three</h3>
+          <p>Short description of the project. Tech stack and role.</p>
+          <p>View the project here:</p>
+          <p><a class="link" href="#">View</a></p>
+        </article>
+      </div>
+    </section>
+
+    <section id="contact" class="container contact">
+      <h2>Contact</h2>
+      <form id="contact-form">
+        <label>
+          <span>Name</span>
+          <input type="text" name="name" required>
+        </label>
+        <label>
+          <span>Email</span>
+          <input type="email" name="email" required>
+        </label>
+        <label>
+          <span>Message</span>
+          <textarea name="message" rows="4" required></textarea>
+        </label>
+        <p><button class="btn" type="submit">Send</button></p>
+      </form>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <small>&copy; <span id="year"></span> Muhammad Usman — Built with HTML, CSS, JS.</small>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
