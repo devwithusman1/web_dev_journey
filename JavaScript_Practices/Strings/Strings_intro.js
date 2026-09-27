@@ -13,6 +13,10 @@
 let singleQuoteString = 'Hello, World!';
 let doubleQuoteString = "Hello, World!";
 let backtickString = `Hello, World!`;
+//Printing the strings
+console.log(singleQuoteString);
+console.log(doubleQuoteString);
+console.log(backtickString);
 
 // Strings can be concatenated using the + operator:
 let greeting = 'Hello';
