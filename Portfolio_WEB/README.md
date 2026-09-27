@@ -14,4 +14,6 @@ Files added:
 - `styles.css` — page styles
 - `script.js` — small JS for nav and contact handling
 
-Want me to deploy this to GitHub Pages or customize the design? Tell me what to change.
+Want me to deploy this to GitHub Pages or customize the design? Tell me what to change.(by mailing me)
+<br>
+[Email Me](mailto:mukk988mukk988@gmail.com)
