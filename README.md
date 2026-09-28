@@ -18,6 +18,7 @@ This repository is organized sequentially, following a structured learning path:
 ### 1. The Frontend Foundations 🏗️
 *   **HTML5:** Structuring the web, semantic tags, forms, and SEO basics.
 *   **CSS3:** Styling, flexbox, grid layouts, animations, and responsive web design.
+*   **JavaScript:** • Topics Covered: Basics & Control Flow, Functions & Scope, DOM Manipulation, Data Structures, OOP Concepts, Asynchronous JS, and Modern ES6+ Features.
 
 ### 2. Modern UI Frameworks & Libraries 🎨
 *   **Bootstrap:** Rapid prototyping using pre-built utility classes and components.
